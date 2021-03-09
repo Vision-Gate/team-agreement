@@ -11,7 +11,10 @@
 * How will you raise concerns to members who are not adequately contributing?
   * Daily accountability checks. Clear and strong communication. Recognize that getting stuck on something is very different than not trying. If you get stuck, ask for help. We are a team; we’re not doing this alone. It will be clear from the Trello cards who is not being accountable
 * How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+  * If conflict escalates to 20% bring in a TA
+  * If things get too intense, 10 minute break to pause are reassess and then come back together
   * We all have bad days, but if you’re slacking for more than 1 day that’s when we will escalate
+
 
 
 ### Communication Plan
@@ -22,11 +25,20 @@
   * Team stand ups in the morning, afternoon, and evening where we each take turns discussing our goals and progress. 
 * How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
   * We all feel confident in our ability to speak up.
+  * Each day we will be assigned tasks in the morning, and it’s expected that we complete those tasks by EOD. We will work after hours if we are not done with our featured tasks for the day. 
 
 
 ### Work Plan
 
-* How will you identify tasks, assign tasks, know when they are complete, and manage work in general? What project management tool will be used?
+* How will you identify tasks, assign tasks, know when they are complete, and manage work in general? 
+ * These are our primary roles, but we will all jump around. We all plan to pair program throughout the week. 
+  * Lydia: Frontend & CSS
+  * AJ: Frontend
+  * Leaundrae: Backend
+  * Barrett: Backend
+
+
+* What project management tool will be used?
   * Trello! Try to make big picture goals as a team on Monday, and set smaller daily goals each morning before we work.
 
 
@@ -37,7 +49,7 @@
 * How will you share the repository with your teammates?
   * We will make a GitHub organization and all be collaborates
 * What is your Git flow?
-  * Pulls in the morning, pushes and merges at the end of the day. Make it so no one can accidentally push to the main branch. Have 1 reviewer before you can merge branches back to main
+  * Pulls in the morning. Merges periodically throughout the day. In the morning we will establish whose mergers will affect others' merges and be in communication throughout the day. Make it so no one can accidentally push to the main branch. Create a development branch that we will merge to before merging to the main branch. Have 1 reviewer before you can merge branches back to main
 * Will you be using a PR review workflow? If so, consider:
   * How many people must review a PR? 1 additional person
   * Who merges PRs? We will do this daily as a team
